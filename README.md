@@ -1,2 +1,1 @@
-# html
-repositorio para estudos de html e suas semanticas
+Repositorio para estudos de html e suas semanticas
